@@ -20,7 +20,7 @@ html, body {
 }
 
 body {
-  background-image: url("/images/edited/Cookie-background-cropped-v2.jpg");
+  background-image: url("https://github.com/IlliaGoldin/cookie-tribute-fcc/blob/master/images/edited/Cookie-background-cropped-v2.jpg?raw=true");
   background-size: repeat;
   }
 
@@ -33,7 +33,6 @@ ul {
 li {
   font-size: 1rem;
   position: relative;
-  padding-left: 2.2rem;
   padding-top: .3rem;
   height: 2rem;
 }
@@ -45,7 +44,7 @@ li::before {
   height: 100%;
   top: 0;
   left: 0;
-  background-image: url("/bullets/gingerbread-man-icon-1.png"); 
+  background-image: url("https://github.com/IlliaGoldin/cookie-tribute-fcc/blob/master/bullets/gingerbread-man-icon-1.png?raw=true"); 
   background-size: 2rem;
   background-repeat: no-repeat;
   background-position: left;
