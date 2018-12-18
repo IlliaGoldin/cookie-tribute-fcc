@@ -20,7 +20,7 @@ html, body {
 }
 
 body {
-  background-image: url("https://github.com/IlliaGoldin/cookie-tribute-fcc.github.io/blob/master/images/edited/Cookie-background-cropped-v2.jpg?raw=true");
+  background-image: url("/images/edited/Cookie-background-cropped-v2.jpg");
   background-size: repeat;
   }
 
@@ -103,4 +103,14 @@ footer p {
 }
 
  
-  
+/*--===Media Query===--*/
+@media only screen and (max-width: 48rem)  {
+  .list--header__align {
+    height: initial;
+  }
+
+  .col-md-4 {
+    margin-bottom: 1rem;
+  }
+}
+/*-=Query End=-*/
