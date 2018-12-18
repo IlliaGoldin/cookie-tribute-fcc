@@ -45,7 +45,7 @@ li::before {
   height: 100%;
   top: 0;
   left: 0;
-  background-image: url("https://github.com/IlliaGoldin/cookie-tribute-fcc.github.io/blob/master/bullets/gingerbread-man-icon-1.png?raw=true"); 
+  background-image: url("/bullets/gingerbread-man-icon-1.png"); 
   background-size: 2rem;
   background-repeat: no-repeat;
   background-position: left;
