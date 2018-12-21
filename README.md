@@ -1,4 +1,4 @@
-# cookie-tribute-fcc.github.io
+# cookie-tribute-fcc
 ## Tribute Page. FreeCodeCamp project. Responsive Design.
 *https://illiagoldin.github.io/cookie-tribute-fcc/*
 
